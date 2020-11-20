@@ -209,7 +209,7 @@ a.home-link {
   cursor: pointer;
   text-transform: uppercase;
 
-  position: fixed; /*inline element but no need display: inline-block*/
+  position: fixed;
   bottom: 10px;
   right: 10px;
 }
