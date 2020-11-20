@@ -7,7 +7,7 @@ Single webpage about CSS Position property
 - Add a title to the document
 - Use External CSS to style the document
 - Please just code what you see, neither less nor more.
-- Try to use CSS position property with proper values in this exercise sections.
+- Try to use CSS position property with proper values in this exercise sections
 
 ## The desktop overview
 
